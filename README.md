@@ -12,3 +12,8 @@ Esc :wq!
 
 8. git checkout -b rama-heroes
 9. git checkout master
+git merge rama-heroes
+git branch
+
+10. git branch -d rama-heroes
+11. git push
